@@ -30,4 +30,5 @@
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="Spark" width="40" height="40"/> </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/> </a>
 </p>
+<hr/>
 
