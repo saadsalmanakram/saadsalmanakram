@@ -1,4 +1,4 @@
-<img src="ss.gif" alt="Header GIF" style="width: 100%; display: block;">
+<img src="img.gif" alt="Header GIF" style="width: 100%; display: block;">
 
 <h1 align="center">Hi 👋, I'm Saad Salman</h1>
 <h3 align="center">Data Scientist</h3>
