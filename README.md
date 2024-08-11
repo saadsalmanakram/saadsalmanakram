@@ -84,6 +84,9 @@
   width="40" height="40"/> </a>
   </p>
   <hr/>
+  <p>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadsalmanakram&langs_count=8)
+  </p>
   
 </body>
 </html>
