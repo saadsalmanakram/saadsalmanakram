@@ -23,7 +23,7 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" height="30" 
   width="40" /></a>
   <a href="https://www.kaggle.com/codecavalier" target="blank"><img align="center" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" height="30" 
   width="40" /></a>
   <a href="https://medium.com/@saadsalmanakram1" target="blank"><img align="center" src="medium.svg" alt="Medium" height="30" 
   width="40" /></a>
