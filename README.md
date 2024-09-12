@@ -10,7 +10,7 @@
       <h1></h1>
   </header>
 
-  <img src="img.png" alt="Header PNG" style="width: 100%; display: block;">
+  <img src="Banner.gif" alt="Header GIF" style="width: 100%; display: block;">
   <hr/>
 
   <h3 align="left">Connect with me:</h3>
