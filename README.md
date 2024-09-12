@@ -3,6 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .social-icon {
+            transition: transform 0.3s ease;
+            display: inline-block;
+        }
+        .social-icon:hover {
+            transform: scale(1.2) rotate(10deg);
+        }
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.05);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+        .social-icon img {
+            animation: pulse 2s infinite;
+        }
+    </style>
 </head>
 <body>
   
