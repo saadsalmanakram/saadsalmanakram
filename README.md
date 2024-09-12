@@ -3,16 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        /* Add hover effect for social icons */
-        .icon {
-            transition: transform 0.3s ease;
-        }
-        /* Grow icons on hover */
-        .icon:hover {
-            transform: scale(1.2); /* Grow the icon 20% on hover */
-        }
-    </style>
 </head>
 <body>
   
