@@ -27,7 +27,7 @@
   width="40" /></a>
   <a href="https://medium.com/@saadsalmanakram1" target="blank"><img align="center" src="medium.svg" alt="Medium" height="30" 
   width="40" /></a>
-  <a href="https://huggingface.co/SaadSalman7" target="blank"><img align="center" src="huggingface.svg" alt="Medium" height="30" 
+  <a href="https://huggingface.co/SaadSalman7" target="blank"><img align="center" src="huggingface.svg" alt="Hugging Face" height="30" 
   width="40" /></a>
   </p>
 
