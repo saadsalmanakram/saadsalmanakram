@@ -26,6 +26,6 @@
   width="40" /></a>
   </p>
 
-</body>
 <hr/>
+</body>
 </html>
