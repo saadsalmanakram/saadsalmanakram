@@ -31,6 +31,18 @@
   width="40" /></a>
   </p>
 
+  <p>
+      # PDF Slide Show
+   <iframe src="path_to_your_pdf1.pdf" width="100%" height="600px"></iframe>
+
+   <br><br>
+
+   <iframe src="path_to_your_pdf2.pdf" width="100%" height="600px"></iframe>
+
+   <br><br>
+
+   <iframe src="path_to_your_pdf3.pdf" width="100%" height="600px"></iframe>
+  </p>
 <hr/>
 </body>
 </html>
