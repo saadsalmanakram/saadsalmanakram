@@ -32,15 +32,5 @@
   </p>
 
   <hr/>
-
-  <h2>PDF Slide Show</h2>
-  <p>You can view the PDFs by clicking the links below:</p>
-  <ul>
-    <li><a href="path_to_your_pdf1.pdf" target="_blank">PDF Slide 1</a></li>
-    <li><a href="path_to_your_pdf2.pdf" target="_blank">PDF Slide 2</a></li>
-    <li><a href="path_to_your_pdf3.pdf" target="_blank">PDF Slide 3</a></li>
-  </ul>
-
-  <hr/>
 </body>
 </html>
