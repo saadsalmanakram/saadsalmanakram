@@ -15,7 +15,7 @@
 
   <h3 align="left">Connect with me:</h3>
 
-  <p align="left">
+  <p align="center">
   <a href="https://www.linkedin.com/in/saadsalmanakram/" target="blank"><img align="center" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="30" 
   width="40" /></a>
