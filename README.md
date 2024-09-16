@@ -5,10 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  
-  <header>
-      <h1>Your Header</h1>
-  </header>
 
   <img src="Banner.gif" alt="Header GIF" style="width: 100%; display: block;">
   <hr/>
