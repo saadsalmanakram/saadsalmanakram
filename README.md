@@ -140,6 +140,12 @@
       <td>Ruby on Rails, Kafka</td>
       <td>PostgreSQL</td>
     </tr>
+    <tr>
+      <td>Analyzing Drugs based on Types</td>
+      <td><a href="https://github.com/saadsalmanakram/Analyzing-Drugs-based-on-types" target="_blank">Link</a></td>
+      <td>Ruby on Rails, Kafka</td>
+      <td>PostgreSQL</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
