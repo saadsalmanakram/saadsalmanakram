@@ -129,9 +129,9 @@
       <td>MongoDB</td>
     </tr>
     <tr>
-      <td>Movie Emotion Analyzer using Vision Transformers</td>
-      <td><a href="https://github.com/saadsalmanakram/Movie-Emotion-Analyzer-using-Vision-Transformers" target="_blank">Link</a></td>
-      <td>MEVN Stack, Vision Transformers</td>
+      <td>Ethnicity teller based on features</td>
+      <td><a href="https://github.com/saadsalmanakram/Ethnicity-teller-based-on-features" target="_blank">Link</a></td>
+      <td>MEAN Stack, CNN</td>
       <td>MongoDB</td>
     </tr>
     <!-- Add more projects as needed -->
