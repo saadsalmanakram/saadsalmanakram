@@ -160,7 +160,7 @@
     </tr>
     <tr>
       <td>Animal Detection Based on their Postures</td>
-      <td><a href="https://github.com/saadsalmanakram/Bike-or-Car-shape-modification-system" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Animal-detection-based-on-their-postures" target="_blank">Link</a></td>
       <td>MERN Stack, Yolo</td>
       <td>MongoDB</td>
     </tr>
