@@ -39,22 +39,28 @@
       <th>Database Used</th>
     </tr>
     <tr>
-      <td>Project 1</td>
-      <td><a href="https://github.com/example/project1" target="_blank">GitHub Link</a></td>
-      <td>Python, Flask, HTML, CSS</td>
-      <td>MySQL</td>
+      <td>Social Media Agent Using CrewAI</td>
+      <td><a href="https://github.com/saadsalmanakram/Social-Media-Agent-using-CrewAI" target="_blank">Link</a></td>
+      <td>Crew AI, Next.js(React)</td>
+      <td>Weaviate</td>
     </tr>
     <tr>
-      <td>Project 2</td>
-      <td><a href="https://github.com/example/project2" target="_blank">GitHub Link</a></td>
-      <td>Node.js, Express, React</td>
+      <td>Nutritionist Specialist using Llama 3</td>
+      <td><a href="https://github.com/saadsalmanakram/Nurtition-Specialist-using-Llama-3" target="_blank">Link</a></td>
+      <td>Next.js(React), Llama3</td>
+      <td>Weaviate</td>
+    </tr>
+    <tr>
+      <td>Medical Prescriptionist using Llama 3</td>
+      <td><a href="https://github.com/saadsalmanakram/Medical-Prescriptionist-using-Llama-3" target="_blank">Link</a></td>
+      <td>MEVN Stack</td>
       <td>MongoDB</td>
     </tr>
-    <tr>
+        <tr>
       <td>Project 3</td>
-      <td><a href="https://github.com/example/project3" target="_blank">GitHub Link</a></td>
-      <td>Java, Spring Boot, Thymeleaf</td>
-      <td>PostgreSQL</td>
+      <td><a href="https://github.com/saadsalmanakram/Medical-Prescriptionist-using-Llama-3" target="_blank">Link</a></td>
+      <td>MEVN Stack</td>
+      <td>MongoDB</td>
     </tr>
     <!-- Add more projects as needed -->
   </table>
