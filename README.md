@@ -134,6 +134,12 @@
       <td>MEAN Stack, CNN</td>
       <td>MongoDB</td>
     </tr>
+    <tr>
+      <td>Diverse Crops Analytics</td>
+      <td><a href="https://github.com/saadsalmanakram/Diverse-Crops-Analytics" target="_blank">Link</a></td>
+      <td>Ruby on Rails, Kafka</td>
+      <td>PostgreSQL</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
