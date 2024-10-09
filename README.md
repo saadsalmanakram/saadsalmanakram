@@ -116,6 +116,12 @@
       <td>Laravel Stack, Vision Transformers</td>
       <td>MySQL</td>
     </tr>
+    <tr>
+      <td>Predictive Maintenance of Industrial Assets</td>
+      <td><a href="https://github.com/saadsalmanakram/Predictive-Maintenance-of-Industrial-Assets" target="_blank">Link</a></td>
+      <td>Shiny(R), Statistics</td>
+      <td>SQLite</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
