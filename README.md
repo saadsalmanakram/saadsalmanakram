@@ -98,6 +98,12 @@
       <td>Laravel Stack, JS Web Libraries</td>
       <td>MySQL</td>
     </tr>
+    <tr>
+      <td>Analyzing all Pandemics</td>
+      <td><a href="https://github.com/saadsalmanakram/Analyzing-all-Pandemics" target="_blank">Link</a></td>
+      <td>Django Stack, Statistics</td>
+      <td>PostgreSQL</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
