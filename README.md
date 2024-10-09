@@ -56,11 +56,17 @@
       <td>MEVN Stack</td>
       <td>MongoDB</td>
     </tr>
-        <tr>
+    <tr>
       <td>Detecting Most Accurate Calendar</td>
       <td><a href="https://github.com/saadsalmanakram/Detecting-most-accurate-Calendar" target="_blank">Link</a></td>
       <td>Fastapi Stack</td>
       <td>Cassandra</td>
+    </tr>
+    <tr>
+      <td>Neural Network Marketplaces on Solana</td>
+      <td><a href="https://github.com/saadsalmanakram/Neural-Network-Marketplaces-on-Solana" target="_blank">Link</a></td>
+      <td>Anchor Framework, Next.js(React)</td>
+      <td>Weaviate</td>
     </tr>
     <!-- Add more projects as needed -->
   </table>
