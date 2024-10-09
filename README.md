@@ -124,7 +124,7 @@
     </tr>
     <tr>
       <td>Movie Emotion Analyzer using Vision Transformers</td>
-      <td><a href="https://github.com/saadsalmanakram/Predictive-Maintenance-of-Industrial-Assets" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Movie-Emotion-Analyzer-using-Vision-Transformers" target="_blank">Link</a></td>
       <td>MEVN Stack, Vision Transformers</td>
       <td>MongoDB</td>
     </tr>
