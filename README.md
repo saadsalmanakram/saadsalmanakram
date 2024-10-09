@@ -110,6 +110,12 @@
       <td>Kivy</td>
       <td>SQLite</td>
     </tr>
+    <tr>
+      <td>Recognizing-humans-based-on-posture</td>
+      <td><a href="https://github.com/saadsalmanakram/Recognizing-humans-based-on-posture" target="_blank">Link</a></td>
+      <td>Laravel Stack, Vision Transformers</td>
+      <td>MySQL</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
