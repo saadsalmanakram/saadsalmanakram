@@ -86,6 +86,12 @@
       <td>Anchor Framework, Next.js(React), Solana</td>
       <td>Weaviate</td>
     </tr>
+    <tr>
+      <td>Typing improvement system using DL</td>
+      <td><a href="https://github.com/saadsalmanakram/Typing-improvement-system-using-DL" target="_blank">Link</a></td>
+      <td>MERN Stack</td>
+      <td>MongoDB</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
