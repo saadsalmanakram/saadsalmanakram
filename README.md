@@ -152,6 +152,12 @@
       <td>MERN Stack, CNN</td>
       <td>MongoDB</td>
     </tr>
+    <tr>
+      <td>Bike-or-Car-shape-modification-system</td>
+      <td><a href="https://github.com/saadsalmanakram/Bike-or-Car-shape-modification-system" target="_blank">Link</a></td>
+      <td>MERN Stack, GenAI</td>
+      <td>MongoDB</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
