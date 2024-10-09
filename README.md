@@ -39,7 +39,7 @@
       <th>Database Used</th>
     </tr>
     <tr>
-      <td>**Social Media Agent Using CrewAI**</td>
+      <td>Social Media Agent Using CrewAI</td>
       <td><a href="https://github.com/saadsalmanakram/Social-Media-Agent-using-CrewAI" target="_blank">Link</a></td>
       <td>Crew AI, Next.js(React)</td>
       <td>Weaviate</td>
