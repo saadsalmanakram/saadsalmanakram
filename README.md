@@ -68,6 +68,12 @@
       <td>Anchor Framework, Next.js(React)</td>
       <td>Weaviate</td>
     </tr>
+    <tr>
+      <td>Decentralized Deepfake Detection Network on Solana</td>
+      <td><a href="https://github.com/saadsalmanakram/Decentralized-Deepfake-Detection-Network-on-Solana" target="_blank">Link</a></td>
+      <td>Anchor Framework, Next.js(React)</td>
+      <td>Weaviate</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
