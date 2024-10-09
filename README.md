@@ -146,6 +146,12 @@
       <td>Ruby on Rails, Kafka</td>
       <td>PostgreSQL</td>
     </tr>
+    <tr>
+      <td>Unified Cancer Detection Systen</td>
+      <td><a href="https://github.com/saadsalmanakram/Unified-Cancer-Detection-System" target="_blank">Link</a></td>
+      <td>MERN Stack, CNN</td>
+      <td>MongoDB</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
