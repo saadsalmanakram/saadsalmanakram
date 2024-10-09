@@ -28,5 +28,36 @@
   </p>
 
   <hr/>
+
+  <h3 align="center">STACKS Project</h3>
+
+  <table align="center">
+    <tr>
+      <th>Project Name</th>
+      <th>Link</th>
+      <th>Stack Used</th>
+      <th>Database Used</th>
+    </tr>
+    <tr>
+      <td>Project 1</td>
+      <td><a href="https://github.com/example/project1" target="_blank">GitHub Link</a></td>
+      <td>Python, Flask, HTML, CSS</td>
+      <td>MySQL</td>
+    </tr>
+    <tr>
+      <td>Project 2</td>
+      <td><a href="https://github.com/example/project2" target="_blank">GitHub Link</a></td>
+      <td>Node.js, Express, React</td>
+      <td>MongoDB</td>
+    </tr>
+    <tr>
+      <td>Project 3</td>
+      <td><a href="https://github.com/example/project3" target="_blank">GitHub Link</a></td>
+      <td>Java, Spring Boot, Thymeleaf</td>
+      <td>PostgreSQL</td>
+    </tr>
+    <!-- Add more projects as needed -->
+  </table>
+
 </body>
 </html>
