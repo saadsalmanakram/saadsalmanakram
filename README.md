@@ -29,7 +29,7 @@
 
   <hr/>
 
-  <h3 align="center">STACKS Project</h3>
+  <h3 align="center">STACK Projects</h3>
 
   <table align="center">
     <tr>
