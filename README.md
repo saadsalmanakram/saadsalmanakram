@@ -80,6 +80,12 @@
       <td>Anchor Framework, Next.js(React)</td>
       <td>Weaviate</td>
     </tr>
+    <tr>
+      <td>Quantum Resistant Secure Messaging Platform on Solana</td>
+      <td><a href="https://github.com/saadsalmanakram/AI-Managed-Decentralized-Autonomous-Corporations-DACs-on-Ethereum" target="_blank">Link</a></td>
+      <td>Truffle Framework, Next.js(React), Ethereum</td>
+      <td>Weaviate</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
