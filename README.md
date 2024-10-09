@@ -57,10 +57,10 @@
       <td>MongoDB</td>
     </tr>
         <tr>
-      <td>Project 3</td>
-      <td><a href="https://github.com/saadsalmanakram/Medical-Prescriptionist-using-Llama-3" target="_blank">Link</a></td>
-      <td>MEVN Stack</td>
-      <td>MongoDB</td>
+      <td>Detecting Most Accurate Calendar</td>
+      <td><a href="https://github.com/saadsalmanakram/Detecting-most-accurate-Calendar" target="_blank">Link</a></td>
+      <td>Fastapi Stack</td>
+      <td>Cassandra</td>
     </tr>
     <!-- Add more projects as needed -->
   </table>
