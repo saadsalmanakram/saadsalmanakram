@@ -92,6 +92,12 @@
       <td>MERN Stack</td>
       <td>MongoDB</td>
     </tr>
+    <tr>
+      <td>Species Toxonomy Breakdown</td>
+      <td><a href="https://github.com/saadsalmanakram/Toxonomy-Breakdown" target="_blank">Link</a></td>
+      <td>Laravel Stack, JS Web Libraries</td>
+      <td>MySQL</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
