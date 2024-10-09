@@ -104,6 +104,12 @@
       <td>Django Stack, Statistics</td>
       <td>PostgreSQL</td>
     </tr>
+    <tr>
+      <td>OS live analytics using Kivy</td>
+      <td><a href="https://github.com/saadsalmanakram/OS-live-analytics-using-Kivy" target="_blank">Link</a></td>
+      <td>Kivy</td>
+      <td>SQLite</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
