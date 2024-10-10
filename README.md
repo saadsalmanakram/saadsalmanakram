@@ -277,6 +277,26 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Cognitive Behavioral Therapy Companion: </b>An app that recognizes emotional cues during user interactions (like stress or anxiety) and provides immediate coping strategies, activities, or reminders to practice mindfulness.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>AI-Driven Public Speaking Coach: </b>A tool that analyzes users during practice speeches, providing feedback on body language, eye contact, and speech pacing, helping improve their public speaking skills.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>Social Interaction Enhancer for Neurodivergent Individuals: </b>A system that provides real-time feedback on social interactions by analyzing body language and facial expressions, helping individuals navigate social situations more comfortably.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>Travel Companion AR: </b>An augmented reality application that recognizes landmarks and historical sites through a smartphone camera, providing interactive historical facts, anecdotes, and cultural insights.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
