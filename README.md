@@ -218,7 +218,12 @@
       <td>CNN, YOLO</td>
     </tr>
     <tr>
-      <td><b>9. AI-Based Scavenger Hunt: </b>A game where participants use their smartphones to find and scan objects in the real world, with the AI providing clues based on the identified objects. This could involve learning about the history or significance of each item found.</td>
+      <td><b>AI-Based Scavenger Hunt: </b>A game where participants use their smartphones to find and scan objects in the real world, with the AI providing clues based on the identified objects. This could involve learning about the history or significance of each item found.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>Personalized Nature Guide: </b>An app that recognizes flora and fauna through the camera and provides personalized recommendations for nearby nature trails, parks, or outdoor activities based on user preferences and the identified species.</td>
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
