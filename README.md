@@ -232,6 +232,16 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Virtual Time Capsule: </b>A CV system that allows users to capture current moments (images, videos) and add them to a virtual time capsule. The system could use facial recognition to identify people and tag memories for future viewing.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>Custom Recipe Generator: </b>A model that analyzes the ingredients in a user’s kitchen (through images) and generates unique recipes based on those items, encouraging creativity and reducing food waste.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
