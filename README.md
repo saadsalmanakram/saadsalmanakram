@@ -169,6 +169,24 @@
   </table>
 
   <hr/>
+  <h3 align="center"><b>Prompt Engineering Projects</b></h3>
+
+  <table align="center">
+    <tr>
+      <th>Project Name</th>
+      <th>Link</th>
+      <th>CV Tools Used</th>
+    </tr>
+    <tr>
+      <td><b>AutoPrompt: Adaptive Multimodal Prompt Generator: </b>Automatically generate optimized prompts for models that handle different data types (text, images, audio) to analyze them together (e.g., image-text pairing for news or product descriptions).</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, Hugging Face Transformers, OpenAI Api</td>
+    </tr>
+    <!-- Add more projects as needed -->
+  </table>
+  <hr>
+
+  <hr/>
   <h3 align="center"><b>CV Projects</b></h3>
 
   <table align="center">
@@ -345,6 +363,6 @@
     <!-- Add more projects as needed -->
   </table>
   <hr>
-  
+
 </body>
 </html>
