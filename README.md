@@ -297,6 +297,11 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Virtual Gardening Assistant: </b>An application that uses CV to recognize plants in users’ gardens, offering care tips, watering schedules, and pest control advice based on the identified species.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
