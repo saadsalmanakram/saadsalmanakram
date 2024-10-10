@@ -30,7 +30,7 @@
   </p>
 
   <hr/>
-  <h3 align="center">STACK Projects</h3>
+  <h3 align="center"><br>STACK Projects</br></h3>
 
   <table align="center">
     <tr>
