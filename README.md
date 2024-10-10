@@ -28,8 +28,6 @@
   </p>
 
   <hr/>
-
-  <h3 align="center">STACK Projects</h3>
   <img src="Stacks.png" alt="Stacks Png" style="width: 100%; display: block;">
 
   <table align="center">
