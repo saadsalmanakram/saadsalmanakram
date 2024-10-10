@@ -322,6 +322,16 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Intelligent Workout Buddy: </b>An AI-powered workout companion that uses CV to analyze your form during exercises, offering real-time tips and motivation while keeping track of your fitness progress.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>Interactive Wildlife Documentary Creator: </b>A system that uses CV to analyze video footage from nature and generates a documentary by identifying animals, their behaviors, and providing contextual narration based on real-time data.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
