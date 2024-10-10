@@ -257,6 +257,11 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Mood-Based Playlist Creator: </b>A CV application that analyzes a user’s facial expressions and surroundings through the camera to generate a music playlist that matches their current mood and environment.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
