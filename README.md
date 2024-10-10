@@ -178,10 +178,16 @@
       <th>CV Tools Used</th>
     </tr>
     <tr>
-      <td><b>Unified Sign Language Detection System:</b> A single model trained to recognise all different genre's, dialect and globally recognised sign languages</td>
+      <td><b>Unified Sign Language Detection System:</b> A single model trained to recognize all different genre's, dialect and globally recognized sign languages</td>
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Cultural Gesture Translator:</b>Model that recognizes and translates gestures from various cultures into their meanings. This could be used in intercultural communication, helping people understand the significance of specific gestures in different cultures.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+
     <!-- Add more projects as needed -->
   </table>
 
