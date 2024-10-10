@@ -222,8 +222,6 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
-
-
     <!-- Add more projects as needed -->
   </table>
 
