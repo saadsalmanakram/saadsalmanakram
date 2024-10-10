@@ -272,6 +272,11 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Fitness Form Analyzer: </b>A system that uses CV to analyze users’ exercise forms in real time, providing personalized feedback and corrections to improve technique and prevent injuries.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
