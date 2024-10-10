@@ -307,6 +307,11 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>AI-Powered Home Inventory Manager: </b>A system that recognizes and catalogues household items through images, providing reminders for expiry dates, suggesting grocery lists, or tracking item usage.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
