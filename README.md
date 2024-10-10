@@ -242,6 +242,16 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Wildlife Migration Tracker: </b>A CV system that analyzes satellite or drone footage to track animal migration patterns over time, providing insights into environmental changes and conservation efforts.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>Virtual Body Language Coach: </b>An application that analyzes a user’s body language in real time during video calls, providing feedback on posture, gestures, and expressions to improve communication skills.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
