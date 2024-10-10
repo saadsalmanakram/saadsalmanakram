@@ -186,7 +186,7 @@
   </table>
   <hr>
 
-  <hr/>
+
   <h3 align="center"><b>CV Projects</b></h3>
 
   <table align="center">
