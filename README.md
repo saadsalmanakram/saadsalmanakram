@@ -182,6 +182,26 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>LangChain, Hugging Face Transformers, OpenAI Api</td>
     </tr>
+    <tr>
+      <td><b>FeedbackLoop: Self-Improving Prompt Framework: </b>Implement self-improvement prompts, where models critique and improve their outputs over iterations. Ideal for code generation, content refinement, or task-specific optimization.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, Llama 3, Weights & Biases</td>
+    </tr>
+    <tr>
+      <td><b>PersonaGPT: Personalized Conversational Agent Prompts: </b>Create dynamic, personalized prompts that adapt conversations based on user preferences and personality, enabling more personalized and meaningful chatbot interactions.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, LlamaIndex, GPT-4 API</td>
+    </tr>
+    <tr>
+      <td><b>ConvoChain: Context-Aware Conversational Agent: </b>Build a conversational agent where prompts evolve dynamically based on conversation history, making long-term contextual conversations more efficient and human-like.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, OpenAI API, Weaviate</td>
+    </tr>
+    <tr>
+      <td><b>FairPrompt: Bias Detection and Mitigation Prompts: </b>Create a system that detects bias in model outputs and dynamically adjusts prompts to mitigate biased responses in real-time.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Hugging Face Transformers, LangChain, LlamaIndex, AI Fairness 360 (AIF360)</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
   <hr>
