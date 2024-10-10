@@ -169,28 +169,5 @@
 
   <hr/>
 
-  <!-- Markdown Mermaid Diagram -->
-  %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#BB2528', 'edgeLabelBackground':'#FFF0', 'tertiaryColor': '#fff' }}}%%
-  graph LR
-      A[Markdown] -->|Enhances| B(Documentation)
-      B --> C{Choose Format}
-      C -->|Dynamic| D[Mermaid]
-      C -->|Static| E[ASCII Art]
-      C -->|Hybrid| F[SVG]
-      
-      subgraph Advanced Features
-      D --> G[Flowcharts]
-      D --> H[Sequence Diagrams]
-      D --> I[Gantt Charts]
-      end
-      
-      style A fill:#BB2528,stroke:#FF0000,stroke-width:2px,color:#fff
-      style B fill:#004AAD,stroke:#0000FF,stroke-width:2px,color:#fff
-      style C fill:#5A0094,stroke:#8B008B,stroke-width:2px,color:#fff
-      style D fill:#1E5631,stroke:#006400,stroke-width:2px,color:#fff
-      style E fill:#A4123F,stroke:#FF69B4,stroke-width:2px,color:#fff
-      style F fill:#E49B0F,stroke:#FFA500,stroke-width:2px,color:#fff
-
-
 </body>
 </html>
