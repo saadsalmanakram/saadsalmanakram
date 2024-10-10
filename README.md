@@ -252,6 +252,11 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Augmented Reality Cooking Tutor: </b>An AR application that recognizes ingredients and kitchen tools, providing step-by-step cooking instructions and real-time feedback as users cook, enhancing their culinary skills.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
