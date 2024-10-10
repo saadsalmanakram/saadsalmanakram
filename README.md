@@ -267,6 +267,11 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Dynamic Learning Environment for Children: </b>An interactive educational app that uses CV to recognize physical objects in a child’s environment and provides relevant educational content or quizzes based on those objects.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
