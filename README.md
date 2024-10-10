@@ -227,6 +227,11 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Interactive Storytelling for Children: </b>A CV-powered storytelling app where children can interact with characters or objects on the screen, which respond to their actions and create a personalized narrative experience.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
