@@ -25,7 +25,7 @@
     width="40" /></a>
     <a href="https://huggingface.co/SaadSalman7" target="_blank"><img align="center" src="huggingface.svg" alt="Hugging Face" height="30" 
     width="40" /></a>
-    <a href="https://wandb.ai/saadsalmanakram1" target="_blank"><img align="center" src="W&B.png" alt="Weights & Biases" height="40" 
+    <a href="https://wandb.ai/saadsalmanakram1" target="_blank"><img align="center" src="W&B logo.svg" alt="Weights & Biases" height="40" 
     width="40" /></a>
   </p>
 
