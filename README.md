@@ -178,47 +178,47 @@
       <th>CV Tools Used</th>
     </tr>
     <tr>
-      <td><b>Unified Sign Language Detection System:</b> A single model trained to recognize all different genre's, dialect and globally recognized sign languages</td>
+      <td><b>Unified Sign Language Detection System: </b> A single model trained to recognize all different genre's, dialect and globally recognized sign languages</td>
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
-      <td><b>Cultural Gesture Translator:</b>Model that recognizes and translates gestures from various cultures into their meanings. This could be used in intercultural communication, helping people understand the significance of specific gestures in different cultures.</td>
+      <td><b>Cultural Gesture Translator: </b>Model that recognizes and translates gestures from various cultures into their meanings. This could be used in intercultural communication, helping people understand the significance of specific gestures in different cultures.</td>
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
-      <td><b>Dynamic Art Critique:</b>a system that analyzes artwork in real time and provides feedback or critique based on established art theories. The model could evaluate color usage, composition, and style, helping artists improve their skills.</td>
+      <td><b>Dynamic Art Critique: </b>A system that analyzes artwork in real time and provides feedback or critique based on established art theories. The model could evaluate color usage, composition, and style, helping artists improve their skills.</td>
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
-      <td><b>Emotional Storyboarding:</b>A tool that generates storyboards for films or animations by analyzing scripts or narratives. The model would recognize key emotional cues and suggest visual scenes based on facial expressions, colors, and settings.</td>
+      <td><b>Emotional Storyboarding: </b>A tool that generates storyboards for films or animations by analyzing scripts or narratives. The model would recognize key emotional cues and suggest visual scenes based on facial expressions, colors, and settings.</td>
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
-      <td><b>Customized Pet Identification:</b>A model that identifies individual pets based on their unique physical traits (e.g., fur patterns, ear shape). This could assist in pet recovery efforts or help animal shelters track animals more effectively.</td>
+      <td><b>Customized Pet Identification: </b>A model that identifies individual pets based on their unique physical traits (e.g., fur patterns, ear shape). This could assist in pet recovery efforts or help animal shelters track animals more effectively.</td>
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
-      <td><b>Interactive Memory Lane:</b>An augmented reality (AR) application that overlays historical images or videos onto current locations when viewed through a smartphone camera, allowing users to experience historical events in their original context.</td>
+      <td><b>Interactive Memory Lane: </b>An augmented reality (AR) application that overlays historical images or videos onto current locations when viewed through a smartphone camera, allowing users to experience historical events in their original context.</td>
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
-      <td><b>Multimodal Learning Assistant:</b>A system that recognizes physical objects and integrates their information with online resources (like Wikipedia or instructional videos). For example, pointing a camera at a tool could display its uses and related tutorials.</td>
+      <td><b>Multimodal Learning Assistant: </b>A system that recognizes physical objects and integrates their information with online resources (like Wikipedia or instructional videos). For example, pointing a camera at a tool could display its uses and related tutorials.</td>
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
-      <td><b>Virtual Fashion Consultant:</b>An application that uses CV to analyze a user's wardrobe through images and suggests new outfits based on current fashion trends, body types, and individual style preferences.</td>
+      <td><b>Virtual Fashion Consultant: </b>An application that uses CV to analyze a user's wardrobe through images and suggests new outfits based on current fashion trends, body types, and individual style preferences.</td>
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
-      <td><b>9. AI-Based Scavenger Hunt:</b>A game where participants use their smartphones to find and scan objects in the real world, with the AI providing clues based on the identified objects. This could involve learning about the history or significance of each item found.</td>
+      <td><b>9. AI-Based Scavenger Hunt: </b>A game where participants use their smartphones to find and scan objects in the real world, with the AI providing clues based on the identified objects. This could involve learning about the history or significance of each item found.</td>
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
