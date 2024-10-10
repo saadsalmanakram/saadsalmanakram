@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 900 900" width="900" height="900" xmlns="http://www.w3.org/2000/svg">
+<path transform="translate(0)" d="m0 0h900v900h-900z"/>
+<path transform="translate(647,310)" d="m0 0 15 2 11 5 11 8 7 9 5 10 3 11v14l-4 14-6 10-6 7-10 7-8 4-16 3-16-2-11-5-9-6-9-10-6-13-2-8v-16l4-13 5-9 9-10 11-7 7-3z" fill="#FEBE00"/>
+<path transform="translate(245,568)" d="m0 0h15l11 3 10 5 10 9 6 8 5 11 2 10v11l-3 12-6 12-9 10-11 7-11 4-7 1h-10l-13-3-10-5-12-11-7-11-4-13v-18l4-12 6-10 7-8 9-6 12-5z" fill="#FEBE00"/>
+<path transform="translate(242,311)" d="m0 0h21l12 4 10 7 6 5 9 14 3 9 1 6v12l-3 12-5 10-8 10-10 7-12 5-16 2-12-2-10-4-11-8-8-9-6-13-2-7v-18l5-15 7-10 7-7 12-7z" fill="#FEBE00"/>
+<path transform="translate(442,487)" d="m0 0h16l13 4 9 5 10 9 6 9 5 14v20l-4 12-6 10-9 9-10 6-11 4-7 1h-9l-16-4-10-6-8-7-9-14-3-10-1-7v-8l2-10 5-12 7-9 9-8 12-6z" fill="#FEBE00"/>
+<path transform="translate(249,458)" d="m0 0 12 1 10 5 6 5 5 8 3 12-1 9-4 10-7 8-6 4-5 2-6 1h-8l-10-3-6-4-7-7-4-9-1-5v-9l3-10 6-8 8-6 7-3z" fill="#FEBE00"/>
+<path transform="translate(645,458)" d="m0 0 11 1 10 5 6 5 6 10 2 13-2 10-6 10-7 6-8 4-6 1h-8l-10-3-8-6-6-7-4-11v-10l3-10 6-8 8-6 7-3z" fill="#FEBE00"/>
+<path transform="translate(447,377)" d="m0 0 12 1 10 5 8 8 4 9 1 4v11l-4 11-7 8-9 6-8 2h-8l-10-3-9-6-6-8-3-8v-15l4-9 7-9 12-6z" fill="#FEBE00"/>
+<path transform="translate(442,249)" d="m0 0h15l10 4 9 8 5 10 1 4v12l-3 9-7 9-7 5-9 3h-12l-11-4-9-8-5-9-1-4v-14l4-10 7-8 5-4z" fill="#FEBE00"/>
+<path transform="translate(642,587)" d="m0 0h10l10 3 9 7 4 5 4 9 1 9-2 11-6 10-9 7-7 3h-17l-12-6-8-9-4-11v-11l4-11 9-10 10-5z" fill="#FEBE00"/>
+<path transform="translate(642,201)" d="m0 0h11l11 4 9 8 6 12 1 9-2 11-6 10-9 7-8 3h-15l-10-4-8-7-5-9-2-7v-10l4-11 9-10 10-5z" fill="#FEBE00"/>
+<path transform="translate(247,201)" d="m0 0h11l11 4 9 8 6 12 1 10-3 12-7 10-9 6-6 2h-15l-10-4-9-8-5-10-1-5v-9l3-10 6-8 7-6z" fill="#FEBE00"/>
+<path transform="translate(443,635)" d="m0 0h14l10 4 8 7 5 8 2 7v11l-3 9-6 9-8 6-9 3h-12l-11-4-9-8-5-9-1-4v-14l4-10 7-8 8-5z" fill="#FEBE00"/>
+</svg>
