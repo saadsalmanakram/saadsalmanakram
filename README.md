@@ -345,6 +345,14 @@
     <!-- Add more projects as needed -->
   </table>
 
+  <p>
+
+  ## [How to Build Neural Networks from Scratch](https://medium.com/@yourprofile/neural-networks-from-scratch-123abc)
+  ![Neural Networks Article Thumbnail](https://cdn-images-1.medium.com/max/1600/your-thumbnail-image.jpg)
+  A comprehensive guide on building neural networks from scratch using Python and NumPy.
+
+  </p>
+
 
 </body>
 </html>
