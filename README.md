@@ -317,6 +317,11 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Emergency Response Assistant: </b>A CV model that can identify emergency situations (like fires or accidents) through surveillance footage and provide real-time alerts to emergency responders.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
