@@ -312,6 +312,11 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Virtual Reality History Explorer: </b>A VR application that uses CV to recognize historical artifacts or locations and provides immersive narratives or guided tours about their significance.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
