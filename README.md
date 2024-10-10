@@ -175,7 +175,7 @@
     <tr>
       <th>Project Name</th>
       <th>Link</th>
-      <th>CV Tools Used</th>
+      <th>Tools Used</th>
     </tr>
     <tr>
       <td><b>AutoPrompt: Adaptive Multimodal Prompt Generator: </b>Automatically generate optimized prompts for models that handle different data types (text, images, audio) to analyze them together (e.g., image-text pairing for news or product descriptions).</td>
@@ -202,6 +202,57 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>Hugging Face Transformers, LangChain, LlamaIndex, AI Fairness 360 (AIF360)</td>
     </tr>
+    <tr>
+      <td><b>LongFormAI: Collaborative Writing with Structured Prompts: </b>Enable co-creation of long-form content (e.g., articles, reports, or books) by guiding LLMs through structured, iterative prompts to maintain consistency, tone, and coherence.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, LlamaIndex, GPT-4 Api, Notion AI</td>
+    </tr>
+    <tr>
+      <td><b>FewShotX: Automated Few-Shot Prompt Generator: </b>Automate the process of generating optimal few-shot learning prompts for specific NLP tasks like summarization or classification, reducing human effort.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, Llama 3, Cohere AI</td>
+    </tr>
+    <tr>
+      <td><b>MedPrompt: Domain-Specific Prompts for Medical NLP: </b>Develop domain-specific prompts for healthcare applications, where medical language precision is critical (e.g., generating accurate radiology or clinical reports).</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, Hugging Face Transformers, ChromaDB</td>
+    </tr>
+    <tr>
+      <td><b>ExplainAI: Explainable AI via Prompt Interventions: </b>Design prompts that help LLMs generate explainable outputs, making AI decisions more transparent and understandable for end-users (e.g., explaining a financial risk or a medical diagnosis).</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, LlamaIndex, GPT-4, SHAP (SHapley Additive exPlanations)</td>
+    </tr>
+    <tr>
+      <td><b>CausalityGPT: Causal Reasoning with Structured Prompts: </b>Create a prompt system that helps LLMs perform causal reasoning, analyzing cause-effect relationships in data and explaining the outcomes in simple, actionable language.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, Llama3, DoWhy</td>
+    </tr>
+    <tr>
+      <td><b>NLP-Enhanced Search Engine: </b>Build a search engine that uses prompt engineering to enhance query understanding and generate contextually relevant results, including natural language explanations.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, ElasticSearch, Cohere, Haystack</td>
+    </tr>
+    <tr>
+      <td><b>Smart Email Assistant: </b>Develop an AI email assistant that understands and generates responses based on context and previous interactions, utilizing prompt engineering for personalized communication.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, OpenAI API, Zapier, Weaviate</td>
+    </tr>
+    <tr>
+      <td><b>Interactive Storytelling with Dynamic Prompts: </b>Create an interactive storytelling platform where users can influence the narrative flow through prompts, with the AI dynamically adjusting the story based on user choices.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, OpenAI API, React, WebSockets</td>
+    </tr>
+    <tr>
+      <td><b>Code Review Assistant: </b>Develop an AI tool that reviews code submissions and generates feedback using prompts to enhance code quality, suggest improvements, and ensure best practices.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, OpenAI Codex, Github Actions, Docker</td>
+    </tr>
+    <tr>
+      <td><b>Automated Research Paper Generator: </b>Create a system that helps researchers generate drafts of research papers by providing prompts based on specified topics and desired structures.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>LangChain, GPT-4 API, LaTeX, zotero</td>
+    </tr>
+
     <!-- Add more projects as needed -->
   </table>
   <hr>
