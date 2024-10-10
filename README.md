@@ -344,5 +344,7 @@
     </tr>
     <!-- Add more projects as needed -->
   </table>
+  <hr>
+  
 </body>
 </html>
