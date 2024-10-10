@@ -187,6 +187,37 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Dynamic Art Critique:</b>a system that analyzes artwork in real time and provides feedback or critique based on established art theories. The model could evaluate color usage, composition, and style, helping artists improve their skills.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>Emotional Storyboarding:</b>A tool that generates storyboards for films or animations by analyzing scripts or narratives. The model would recognize key emotional cues and suggest visual scenes based on facial expressions, colors, and settings.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>Customized Pet Identification:</b>A model that identifies individual pets based on their unique physical traits (e.g., fur patterns, ear shape). This could assist in pet recovery efforts or help animal shelters track animals more effectively.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>Interactive Memory Lane:</b>An augmented reality (AR) application that overlays historical images or videos onto current locations when viewed through a smartphone camera, allowing users to experience historical events in their original context.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>Multimodal Learning Assistant:</b>A system that recognizes physical objects and integrates their information with online resources (like Wikipedia or instructional videos). For example, pointing a camera at a tool could display its uses and related tutorials.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>Virtual Fashion Consultant:</b>An application that uses CV to analyze a user's wardrobe through images and suggests new outfits based on current fashion trends, body types, and individual style preferences.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+
 
     <!-- Add more projects as needed -->
   </table>
