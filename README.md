@@ -332,6 +332,16 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Cultural Heritage Preservation Tool: </b>A CV application that analyzes images of cultural artifacts or monuments to assess their condition and suggest preservation methods, aiding in cultural heritage conservation.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
+    <tr>
+      <td><b>Historical Figure Recognition in Media: </b>A CV tool that recognizes historical figures in films, documentaries, or news segments, providing contextual information and trivia in real time.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
