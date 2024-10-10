@@ -302,6 +302,11 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Customized Comic Strip Generator: </b>A CV-based application that transforms user-uploaded images into comic strips, using facial expressions and body language to generate dialogues and scenarios.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
