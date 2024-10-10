@@ -30,7 +30,7 @@
   </p>
 
   <hr/>
-  <img src="Stacks.png" alt="Stacks Png" style="width: 100%; display: block;">
+  <h3 align="center">STACK Projects</h3>
 
   <table align="center">
     <tr>
