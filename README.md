@@ -262,6 +262,11 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
+    <tr>
+      <td><b>Personalized Fashion Archive: </b>A model that scans a user's wardrobe and creates a digital archive of their clothing items, suggesting new combinations and tracking how often each piece is worn.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>CNN, YOLO</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
