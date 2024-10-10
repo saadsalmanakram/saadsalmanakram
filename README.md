@@ -344,13 +344,5 @@
     </tr>
     <!-- Add more projects as needed -->
   </table>
-
-  <p>
-
-  <a target="_blank" href="https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148"><img src="https://cdn.pixabay.com/photo/2016/11/29/12/13/fence-1869401_1280.jpg" alt="Recent Article 0"></a>
-
-  </p>
-
-
 </body>
 </html>
