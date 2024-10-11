@@ -207,6 +207,51 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
+    <tr>
+      <td><b>Scientific Paper Reviewer: </b>A tool that helps researchers by retrieving related works, citations, and statistical data, then generating constructive feedback on new research papers, pointing out strengths, potential improvements, and missing references.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Weaviate</td>
+    </tr>
+    <tr>
+      <td><b>Content Repurposing Tool for Marketers: </b>A system that retrieves existing content (blogs, social media posts, podcasts) and generates new formats such as articles, infographics, or email campaigns, enabling efficient content repurposing across different channels.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Weaviate</td>
+    </tr>
+    <tr>
+      <td><b>Travel Itinerary Generator: </b>A travel assistant that retrieves information about destinations, local events, weather, and user preferences to generate personalized travel itineraries with accommodations, attractions, and local tips.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Weaviate</td>
+    </tr>
+    <tr>
+      <td><b>Financial Portfolio Analyst: </b>A financial RAG tool that retrieves historical market data, news articles, and financial reports, generating custom portfolio analysis and investment recommendations based on the user’s risk profile and goals.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Weaviate</td>
+    </tr>
+    <tr>
+      <td><b>Code Documentation and Refactoring Assistant: </b>A system for software engineers that retrieves code snippets, documentation, and best practices from repositories and forums, generating detailed code explanations, refactoring suggestions, and documentation for legacy code.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Weaviate</td>
+    </tr>
+    <tr>
+      <td><b>Personalized Podcast Generator: </b>A RAG tool that retrieves topics from various news sources, blog posts, and user preferences, generating a personalized podcast script or audio episodes tailored to individual interests.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Weaviate</td>
+    </tr>
+    <tr>
+      <td><b>HR Candidate Screening Assistant: </b>An AI tool for HR departments that retrieves resumes, cover letters, and job descriptions, generating a ranked list of potential candidates along with brief summaries of how well each matches the job requirements.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Weaviate</td>
+    </tr>
+    <tr>
+      <td><b>Sustainability Report Generator: </b>A RAG model that retrieves environmental data, corporate ESG reports, and sustainability goals, generating customized sustainability reports for companies that highlight current initiatives, areas of improvement, and benchmarks.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Weaviate</td>
+    </tr>
+    <tr>
+      <td><b>Automated Research Proposal Generator: </b>A system that retrieves existing research papers, funding opportunities, and institutional guidelines, generating tailored research proposals for scientists, including literature reviews, methodologies, and budget estimates.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Weaviate</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
