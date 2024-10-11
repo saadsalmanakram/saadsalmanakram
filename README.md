@@ -197,6 +197,16 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>ChromaDB</td>
     </tr>
+    <tr>
+      <td><b>Interactive Fiction Writer: </b>An interactive fiction platform that retrieves data from a vast array of stories, characters, and settings, dynamically generating custom storylines based on user input, preferences, and chosen paths.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Weaviate</td>
+    </tr>
+    <tr>
+      <td><b>E-Commerce Virtual Stylist: </b>A RAG model that retrieves fashion trends, outfit ideas, and product reviews from e-commerce platforms and fashion blogs, generating personalized styling suggestions and links to relevant products.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Weaviate</td>
+    </tr>
     <!-- Add more projects as needed -->
   </table>
 
