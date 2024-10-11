@@ -252,7 +252,6 @@
       <td><a href="" target="_blank">Link</a></td>
       <td>LangChain, GPT-4 API, LaTeX, zotero</td>
     </tr>
-
     <!-- Add more projects as needed -->
   </table>
   <hr>
