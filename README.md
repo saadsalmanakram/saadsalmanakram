@@ -169,7 +169,7 @@
   </table>
 
   <hr>
-  <h3 align="center"><b>Prompt Engineering Projects</b></h3>
+  <h3 align="center"><b>RAG Projects</b></h3>
 
   <table align="center">
     <tr>
