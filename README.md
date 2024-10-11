@@ -29,7 +29,7 @@
     width="35" /></a>
   </p>
 
-  <hr/>
+  <hr>
   <h3 align="center"><b>STACK Projects</b></h3>
 
   <table align="center">
@@ -168,7 +168,7 @@
     <!-- Add more projects as needed -->
   </table>
 
-  <hr/>
+  <hr>
   <h3 align="center"><b>Prompt Engineering Projects</b></h3>
 
   <table align="center">
