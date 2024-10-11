@@ -178,6 +178,39 @@
       <th>Tools Used</th>
     </tr>
     <tr>
+      <td><b>Personalized Learning Companion: </b>A RAG system that retrieves and generates personalized learning materials (articles, exercises, summaries) based on a student's learning progress. The system adapts by pulling data from online educational resources (e.g., textbooks, research papers, video tutorials).</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Weaviate</td>
+    </tr>
+    <tr>
+      <td><b>Legal Case Summarizer and Precedent Finder: </b>A RAG model that assists legal professionals by retrieving similar past cases, laws, and rulings, and then generating concise legal summaries or potential arguments based on the context of a new case.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Qdrant</td>
+    </tr>
+    <tr>
+      <td><b>Medical Literature Assistant for Rare Diseases: </b>A system that retrieves relevant research papers, case studies, and treatment options for rare diseases, generating tailored medical summaries for healthcare providers or patients.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>Milvius</td>
+    </tr>
+    <tr>
+      <td><b>Corporate Knowledge Assistant: </b>A RAG solution for large corporations to retrieve documents from internal wikis, emails, and reports, generating coherent answers to employee queries about company policies, historical decisions, and ongoing projects.</td>
+      <td><a href="" target="_blank">Link</a></td>
+      <td>ChromaDB</td>
+    </tr>
+    <!-- Add more projects as needed -->
+  </table>
+
+  <hr>
+
+  <h3 align="center"><b>Prompt Engineering Projects</b></h3>
+
+  <table align="center">
+    <tr>
+      <th>Project Name</th>
+      <th>Link</th>
+      <th>Tools Used</th>
+    </tr>
+    <tr>
       <td><b>AutoPrompt: Adaptive Multimodal Prompt Generator: </b>Automatically generate optimized prompts for models that handle different data types (text, images, audio) to analyze them together (e.g., image-text pairing for news or product descriptions).</td>
       <td><a href="" target="_blank">Link</a></td>
       <td>LangChain, Hugging Face Transformers, OpenAI Api</td>
