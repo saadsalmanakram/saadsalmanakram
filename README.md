@@ -154,7 +154,7 @@
       <td>MongoDB</td>
     </tr>
     <tr>
-      <td><b>Bike or Car shape modification system</b></td>
+      <td><b>Vehicle shape modification system</b></td>
       <td><a href="https://github.com/saadsalmanakram/Bike-or-Car-shape-modification-system" target="_blank">Link</a></td>
       <td>MERN Stack, GenAI</td>
       <td>MongoDB</td>
