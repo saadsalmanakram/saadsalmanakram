@@ -41,115 +41,115 @@
     </tr>
     <tr>
       <td><b>Social Media Agent Using CrewAI</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Social-Media-Agent-using-CrewAI" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Social%20Media%20Agent%20Using%20CrewAI" target="_blank">Link</a></td>
       <td>Crew AI, Next.js(React)</td>
       <td>Weaviate</td>
     </tr>
     <tr>
       <td><b>Nutritionist Specialist using Llama 3</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Nurtition-Specialist-using-Llama-3" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Nutritionist%20Specialist%20using%20Llama%203" target="_blank">Link</a></td>
       <td>Next.js(React), Llama3</td>
       <td>Weaviate</td>
     </tr>
     <tr>
       <td><b>Medical Prescriptionist using Llama 3</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Medical-Prescriptionist-using-Llama-3" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MEVN/3-%20Projects/Medical%20Prescriptionist%20using%20Llama%203" target="_blank">Link</a></td>
       <td>MEVN Stack</td>
       <td>MongoDB</td>
     </tr>
     <tr>
       <td><b>Detecting Most Accurate Calendar</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Detecting-most-accurate-Calendar" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/FastAPI/3-%20Projects/Detecting%20Most%20Accurate%20Calendar" target="_blank">Link</a></td>
       <td>Fastapi Stack</td>
       <td>Cassandra</td>
     </tr>
     <tr>
       <td><b>Neural Network Marketplaces on Solana</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Neural-Network-Marketplaces-on-Solana" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Neural%20Network%20Marketplaces%20on%20Solana" target="_blank">Link</a></td>
       <td>Anchor Framework, Next.js(React)</td>
       <td>Weaviate</td>
     </tr>
     <tr>
       <td><b>Decentralized Deepfake Detection Network on Solana</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Decentralized-Deepfake-Detection-Network-on-Solana" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Decentralized%20Deepfake%20Detection%20Network%20on%20Solana" target="_blank">Link</a></td>
       <td>Anchor Framework, Next.js(React)</td>
       <td>Weaviate</td>
     </tr>
     <tr>
       <td><b>Quantum Resistant Secure Messaging Platform on Solana</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Quantum-Resistant-Secure-Messaging-Platform-on-Solana" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Quantum%20Resistant%20Secure%20Messaging%20Platform%20on%20Solana" target="_blank">Link</a></td>
       <td>Anchor Framework, Next.js(React)</td>
       <td>Weaviate</td>
     </tr>
     <tr>
       <td><b>Genomic Data Exchange on Solana</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Genomic-Data-Exchange-on-Solana" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Genomic%20Data%20Exchange%20on%20Solana" target="_blank">Link</a></td>
       <td>Anchor Framework, Next.js(React), Solana</td>
       <td>Weaviate</td>
     </tr>
     <tr>
       <td><b>Typing improvement system using DL</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Typing-improvement-system-using-DL" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Typing%20Improvement%20System%20using%20Deep%20Learning" target="_blank">Link</a></td>
       <td>MERN Stack</td>
       <td>MongoDB</td>
     </tr>
     <tr>
       <td><b>Species Toxonomy Breakdown</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Toxonomy-Breakdown" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/Laravel/3-%20Projects/Species%20Taxonomy%20Breakdown" target="_blank">Link</a></td>
       <td>Laravel Stack, JS Web Libraries</td>
       <td>MySQL</td>
     </tr>
     <tr>
       <td><b>Analyzing all Pandemics</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Analyzing-all-Pandemics" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/Django/3-%20Projects/Analyzing%20all%20Pandemics" target="_blank">Link</a></td>
       <td>Django Stack, Statistics</td>
       <td>PostgreSQL</td>
     </tr>
     <tr>
       <td><b>OS live analytics using Kivy</b></td>
-      <td><a href="https://github.com/saadsalmanakram/OS-live-analytics-using-Kivy" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/Kivy/3-%20Projects/OS%20live%20analytics%20using%20Kivy" target="_blank">Link</a></td>
       <td>Kivy</td>
       <td>SQLite</td>
     </tr>
     <tr>
       <td><b>Recognizing-humans-based-on-posture</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Recognizing-humans-based-on-posture" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/Laravel/3-%20Projects/Recognizing%20Humans%20based%20on%20their%20postures" target="_blank">Link</a></td>
       <td>Laravel Stack, Vision Transformers</td>
       <td>MySQL</td>
     </tr>
     <tr>
       <td><b>Predictive Maintenance of Industrial Assets</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Predictive-Maintenance-of-Industrial-Assets" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/Shiny(R)/3-%20Projects/Predictive%20Maintenance%20of%20Industrial%20Assets" target="_blank">Link</a></td>
       <td>Shiny(R), Statistics</td>
       <td>SQLite</td>
     </tr>
     <tr>
       <td><b>Movie Emotion Analyzer using Vision Transformers</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Movie-Emotion-Analyzer-using-Vision-Transformers" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MEVN/3-%20Projects/Movie%20Emotion%20analyzer%20using%20Vision%20Transformers" target="_blank">Link</a></td>
       <td>MEVN Stack, Vision Transformers</td>
       <td>MongoDB</td>
     </tr>
     <tr>
       <td><b>Ethnicity teller based on features</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Ethnicity-teller-based-on-features" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MEAN/3-%20Projects/Ethnicity%20teller%20based%20on%20features" target="_blank">Link</a></td>
       <td>MEAN Stack, CNN</td>
       <td>MongoDB</td>
     </tr>
     <tr>
       <td><b>Diverse Crops Analytics</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Diverse-Crops-Analytics" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/Ruby%20on%20Rails/3-%20Projects/Diverse%20Crops%20Analytics" target="_blank">Link</a></td>
       <td>Ruby on Rails, Kafka</td>
       <td>PostgreSQL</td>
     </tr>
     <tr>
       <td><b>Analyzing Drugs based on Types</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Analyzing-Drugs-based-on-types" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/Ruby%20on%20Rails/3-%20Projects/Analyzing%20Drugs%20based%20on%20Types" target="_blank">Link</a></td>
       <td>Ruby on Rails, Kafka</td>
       <td>PostgreSQL</td>
     </tr>
     <tr>
       <td><b>Unified Cancer Detection System</b></td>
-      <td><a href="https://github.com/saadsalmanakram/Unified-Cancer-Detection-System" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Unified%20Cancer%20Detection%20System" target="_blank">Link</a></td>
       <td>MERN Stack, CNN</td>
       <td>MongoDB</td>
     </tr>
