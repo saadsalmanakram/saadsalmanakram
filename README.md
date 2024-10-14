@@ -199,7 +199,7 @@
     </tr>
     <tr>
       <td><b>Interactive Fiction Writer: </b>An interactive fiction platform that retrieves data from a vast array of stories, characters, and settings, dynamically generating custom storylines based on user input, preferences, and chosen paths.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Interactive%20Fiction%20Writer" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
     <tr>
