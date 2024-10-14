@@ -184,7 +184,7 @@
     </tr>
     <tr>
       <td><b>Legal Case Summarizer and Precedent Finder: </b>A RAG model that assists legal professionals by retrieving similar past cases, laws, and rulings, and then generating concise legal summaries or potential arguments based on the context of a new case.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Legal%20Case%20Summarizer%20and%20Precedent%20Finder" target="_blank">Link</a></td>
       <td>Qdrant</td>
     </tr>
     <tr>
