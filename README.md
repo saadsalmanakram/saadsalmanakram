@@ -214,17 +214,17 @@
     </tr>
     <tr>
       <td><b>Content Repurposing Tool for Marketers: </b>A system that retrieves existing content (blogs, social media posts, podcasts) and generates new formats such as articles, infographics, or email campaigns, enabling efficient content repurposing across different channels.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Content%20Repurposing%20Tool%20for%20Marketers" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
     <tr>
       <td><b>Travel Itinerary Generator: </b>A travel assistant that retrieves information about destinations, local events, weather, and user preferences to generate personalized travel itineraries with accommodations, attractions, and local tips.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Travel%20Itinerary%20Generator" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
     <tr>
       <td><b>Financial Portfolio Analyst: </b>A financial RAG tool that retrieves historical market data, news articles, and financial reports, generating custom portfolio analysis and investment recommendations based on the user’s risk profile and goals.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Financial%20Portfolio%20Analyst" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
     <tr>
