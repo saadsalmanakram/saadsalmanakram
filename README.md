@@ -229,12 +229,12 @@
     </tr>
     <tr>
       <td><b>Code Documentation and Refactoring Assistant: </b>A system for software engineers that retrieves code snippets, documentation, and best practices from repositories and forums, generating detailed code explanations, refactoring suggestions, and documentation for legacy code.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Code%20Documentation%20and%20Refactoring%20Assistant" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
     <tr>
       <td><b>Personalized Podcast Generator: </b>A RAG tool that retrieves topics from various news sources, blog posts, and user preferences, generating a personalized podcast script or audio episodes tailored to individual interests.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Personalized%20Podcast%20Generator" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
     <tr>
