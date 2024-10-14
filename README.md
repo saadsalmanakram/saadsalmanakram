@@ -249,7 +249,7 @@
     </tr>
     <tr>
       <td><b>Automated Research Proposal Generator: </b>A system that retrieves existing research papers, funding opportunities, and institutional guidelines, generating tailored research proposals for scientists, including literature reviews, methodologies, and budget estimates.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Automated%20Research%20Proposal%20Generator" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
     <!-- Add more projects as needed -->
