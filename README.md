@@ -239,12 +239,12 @@
     </tr>
     <tr>
       <td><b>HR Candidate Screening Assistant: </b>An AI tool for HR departments that retrieves resumes, cover letters, and job descriptions, generating a ranked list of potential candidates along with brief summaries of how well each matches the job requirements.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/HR%20Candidate%20Screening%20Assistant" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
     <tr>
       <td><b>Sustainability Report Generator: </b>A RAG model that retrieves environmental data, corporate ESG reports, and sustainability goals, generating customized sustainability reports for companies that highlight current initiatives, areas of improvement, and benchmarks.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Sustainability%20Report%20Generator" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
     <tr>
