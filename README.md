@@ -204,7 +204,7 @@
     </tr>
     <tr>
       <td><b>E-Commerce Virtual Stylist: </b>A RAG model that retrieves fashion trends, outfit ideas, and product reviews from e-commerce platforms and fashion blogs, generating personalized styling suggestions and links to relevant products.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/E-Commerce%20Virtual%20Stylist" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
     <tr>
