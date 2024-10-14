@@ -179,7 +179,7 @@
     </tr>
     <tr>
       <td><b>Personalized Learning Companion: </b>A RAG system that retrieves and generates personalized learning materials (articles, exercises, summaries) based on a student's learning progress. The system adapts by pulling data from online educational resources (e.g., textbooks, research papers, video tutorials).</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Personalized%20Learning%20Companion" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
     <tr>
