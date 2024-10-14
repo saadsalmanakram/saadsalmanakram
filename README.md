@@ -209,7 +209,7 @@
     </tr>
     <tr>
       <td><b>Scientific Paper Reviewer: </b>A tool that helps researchers by retrieving related works, citations, and statistical data, then generating constructive feedback on new research papers, pointing out strengths, potential improvements, and missing references.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Scientific%20Paper%20Reviewer" target="_blank">Link</a></td>
       <td>Weaviate</td>
     </tr>
     <tr>
