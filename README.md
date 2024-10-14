@@ -189,12 +189,12 @@
     </tr>
     <tr>
       <td><b>Medical Literature Assistant for Rare Diseases: </b>A system that retrieves relevant research papers, case studies, and treatment options for rare diseases, generating tailored medical summaries for healthcare providers or patients.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Medical%20Literature%20Assistant%20for%20Rare%20Diseases" target="_blank">Link</a></td>
       <td>Milvius</td>
     </tr>
     <tr>
       <td><b>Corporate Knowledge Assistant: </b>A RAG solution for large corporations to retrieve documents from internal wikis, emails, and reports, generating coherent answers to employee queries about company policies, historical decisions, and ongoing projects.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Retrieval%20Augmented%20Generation(RAGs)/.Projects/Corporate%20Knowledge%20Assistant" target="_blank">Link</a></td>
       <td>ChromaDB</td>
     </tr>
     <tr>
