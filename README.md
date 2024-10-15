@@ -312,7 +312,7 @@
     </tr>
     <tr>
       <td><b>CausalityGPT: Causal Reasoning with Structured Prompts: </b>Create a prompt system that helps LLMs perform causal reasoning, analyzing cause-effect relationships in data and explaining the outcomes in simple, actionable language.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/CausalityGPT-%20Causal%20Reasoning%20with%20Structured%20Prompts" target="_blank">Link</a></td>
       <td>LangChain, Llama3, DoWhy</td>
     </tr>
     <tr>
