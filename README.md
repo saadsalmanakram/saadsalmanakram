@@ -307,7 +307,7 @@
     </tr>
     <tr>
       <td><b>ExplainAI: Explainable AI via Prompt Interventions: </b>Design prompts that help LLMs generate explainable outputs, making AI decisions more transparent and understandable for end-users (e.g., explaining a financial risk or a medical diagnosis).</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/ExplainAI-%20Explainable%20AI%20via%20Prompt%20Interventions" target="_blank">Link</a></td>
       <td>LangChain, LlamaIndex, GPT-4, SHAP (SHapley Additive exPlanations)</td>
     </tr>
     <tr>
