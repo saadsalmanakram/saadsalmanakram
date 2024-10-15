@@ -332,7 +332,7 @@
     </tr>
     <tr>
       <td><b>Code Review Assistant: </b>Develop an AI tool that reviews code submissions and generates feedback using prompts to enhance code quality, suggest improvements, and ensure best practices.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/Code%20Review%20Assistant" target="_blank">Link</a></td>
       <td>LangChain, OpenAI Codex, Github Actions, Docker</td>
     </tr>
     <tr>
@@ -343,7 +343,6 @@
     <!-- Add more projects as needed -->
   </table>
   <hr>
-
 
   <h3 align="center"><b>CV Projects</b></h3>
 
