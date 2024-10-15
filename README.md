@@ -317,7 +317,7 @@
     </tr>
     <tr>
       <td><b>NLP-Enhanced Search Engine: </b>Build a search engine that uses prompt engineering to enhance query understanding and generate contextually relevant results, including natural language explanations.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/NLP-Enhanced%20Search%20Engine" target="_blank">Link</a></td>
       <td>LangChain, ElasticSearch, Cohere, Haystack</td>
     </tr>
     <tr>
