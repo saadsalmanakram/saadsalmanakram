@@ -292,7 +292,7 @@
     </tr>
     <tr>
       <td><b>LongFormAI: Collaborative Writing with Structured Prompts: </b>Enable co-creation of long-form content (e.g., articles, reports, or books) by guiding LLMs through structured, iterative prompts to maintain consistency, tone, and coherence.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/LongFormAI-%20Collaborative%20Writing%20with%20Structured%20Prompts" target="_blank">Link</a></td>
       <td>LangChain, LlamaIndex, GPT-4 Api, Notion AI</td>
     </tr>
     <tr>
