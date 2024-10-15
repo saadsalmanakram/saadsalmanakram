@@ -277,12 +277,12 @@
     </tr>
     <tr>
       <td><b>PersonaGPT: Personalized Conversational Agent Prompts: </b>Create dynamic, personalized prompts that adapt conversations based on user preferences and personality, enabling more personalized and meaningful chatbot interactions.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/PersonaGPT-%20Personalized%20Conversational%20Agent%20Prompts" target="_blank">Link</a></td>
       <td>LangChain, LlamaIndex, GPT-4 API</td>
     </tr>
     <tr>
       <td><b>ConvoChain: Context-Aware Conversational Agent: </b>Build a conversational agent where prompts evolve dynamically based on conversation history, making long-term contextual conversations more efficient and human-like.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/ConvoChain-%20Context-Aware%20Conversational%20Agent" target="_blank">Link</a></td>
       <td>LangChain, OpenAI API, Weaviate</td>
     </tr>
     <tr>
