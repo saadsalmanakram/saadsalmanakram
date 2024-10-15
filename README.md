@@ -354,167 +354,167 @@
     </tr>
     <tr>
       <td><b>Unified Sign Language Detection System: </b> A single model trained to recognize all different genre's, dialect and globally recognized sign languages</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Unified%20Sign%20Language%20Detection%20System" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Cultural Gesture Translator: </b>Model that recognizes and translates gestures from various cultures into their meanings. This could be used in intercultural communication, helping people understand the significance of specific gestures in different cultures.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Cultural%20Gesture%20Translator" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Dynamic Art Critique: </b>A system that analyzes artwork in real time and provides feedback or critique based on established art theories. The model could evaluate color usage, composition, and style, helping artists improve their skills.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Dynamic%20Art%20Critique" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Emotional Storyboarding: </b>A tool that generates storyboards for films or animations by analyzing scripts or narratives. The model would recognize key emotional cues and suggest visual scenes based on facial expressions, colors, and settings.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Emotional%20Storyboarding" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Customized Pet Identification: </b>A model that identifies individual pets based on their unique physical traits (e.g., fur patterns, ear shape). This could assist in pet recovery efforts or help animal shelters track animals more effectively.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Customized%20Pet%20Identification" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Interactive Memory Lane: </b>An augmented reality (AR) application that overlays historical images or videos onto current locations when viewed through a smartphone camera, allowing users to experience historical events in their original context.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Interactive%20Memory%20Lane" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Multimodal Learning Assistant: </b>A system that recognizes physical objects and integrates their information with online resources (like Wikipedia or instructional videos). For example, pointing a camera at a tool could display its uses and related tutorials.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Multimodal%20Learning%20Assistant" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Virtual Fashion Consultant: </b>An application that uses CV to analyze a user's wardrobe through images and suggests new outfits based on current fashion trends, body types, and individual style preferences.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Virtual%20Fashion%20Consultant" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>AI-Based Scavenger Hunt: </b>A game where participants use their smartphones to find and scan objects in the real world, with the AI providing clues based on the identified objects. This could involve learning about the history or significance of each item found.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/AI-Based%20Scavenger%20Hunt" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Personalized Nature Guide: </b>An app that recognizes flora and fauna through the camera and provides personalized recommendations for nearby nature trails, parks, or outdoor activities based on user preferences and the identified species.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Personalized%20Nature%20Guide" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Interactive Storytelling for Children: </b>A CV-powered storytelling app where children can interact with characters or objects on the screen, which respond to their actions and create a personalized narrative experience.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Interactive%20Storytelling%20for%20Children" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Virtual Time Capsule: </b>A CV system that allows users to capture current moments (images, videos) and add them to a virtual time capsule. The system could use facial recognition to identify people and tag memories for future viewing.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Virtual%20Time%20Capsule" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Custom Recipe Generator: </b>A model that analyzes the ingredients in a user’s kitchen (through images) and generates unique recipes based on those items, encouraging creativity and reducing food waste.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Custom%20Recipe%20Generator" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Wildlife Migration Tracker: </b>A CV system that analyzes satellite or drone footage to track animal migration patterns over time, providing insights into environmental changes and conservation efforts.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Wildlife%20Migration%20Tracker" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Virtual Body Language Coach: </b>An application that analyzes a user’s body language in real time during video calls, providing feedback on posture, gestures, and expressions to improve communication skills.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Virtual%20Body%20Language%20Coach" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Augmented Reality Cooking Tutor: </b>An AR application that recognizes ingredients and kitchen tools, providing step-by-step cooking instructions and real-time feedback as users cook, enhancing their culinary skills.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Augmented%20Reality%20Cooking%20Tutor" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Mood-Based Playlist Creator: </b>A CV application that analyzes a user’s facial expressions and surroundings through the camera to generate a music playlist that matches their current mood and environment.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Mood-Based%20Playlist%20Creator" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Personalized Fashion Archive: </b>A model that scans a user's wardrobe and creates a digital archive of their clothing items, suggesting new combinations and tracking how often each piece is worn.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Personalized%20Fashion%20Archive" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Dynamic Learning Environment for Children: </b>An interactive educational app that uses CV to recognize physical objects in a child’s environment and provides relevant educational content or quizzes based on those objects.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Dynamic%20Learning%20Environment%20for%20Children" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Fitness Form Analyzer: </b>A system that uses CV to analyze users’ exercise forms in real time, providing personalized feedback and corrections to improve technique and prevent injuries.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Fitness%20Form%20Analyzer" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Cognitive Behavioral Therapy Companion: </b>An app that recognizes emotional cues during user interactions (like stress or anxiety) and provides immediate coping strategies, activities, or reminders to practice mindfulness.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Cognitive%20Behavioral%20Therapy%20Companion" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>AI-Driven Public Speaking Coach: </b>A tool that analyzes users during practice speeches, providing feedback on body language, eye contact, and speech pacing, helping improve their public speaking skills.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/AI-Driven%20Public%20Speaking%20Coach" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Social Interaction Enhancer for Neurodivergent Individuals: </b>A system that provides real-time feedback on social interactions by analyzing body language and facial expressions, helping individuals navigate social situations more comfortably.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Social%20Interaction%20Enhancer%20for%20Neurodivergent%20Individuals" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Travel Companion AR: </b>An augmented reality application that recognizes landmarks and historical sites through a smartphone camera, providing interactive historical facts, anecdotes, and cultural insights.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Travel%20Companion%20AR" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Virtual Gardening Assistant: </b>An application that uses CV to recognize plants in users’ gardens, offering care tips, watering schedules, and pest control advice based on the identified species.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Virtual%20Gardening%20Assistant" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Customized Comic Strip Generator: </b>A CV-based application that transforms user-uploaded images into comic strips, using facial expressions and body language to generate dialogues and scenarios.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Customized%20Comic%20Strip%20Generator" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>AI-Powered Home Inventory Manager: </b>A system that recognizes and catalogues household items through images, providing reminders for expiry dates, suggesting grocery lists, or tracking item usage.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/AI-Powered%20Home%20Inventory%20Manager" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Virtual Reality History Explorer: </b>A VR application that uses CV to recognize historical artifacts or locations and provides immersive narratives or guided tours about their significance.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Virtual%20Reality%20History%20Explorer" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Emergency Response Assistant: </b>A CV model that can identify emergency situations (like fires or accidents) through surveillance footage and provide real-time alerts to emergency responders.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Emergency%20Response%20Assistant" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Intelligent Workout Buddy: </b>An AI-powered workout companion that uses CV to analyze your form during exercises, offering real-time tips and motivation while keeping track of your fitness progress.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Intelligent%20Workout%20Buddy" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Interactive Wildlife Documentary Creator: </b>A system that uses CV to analyze video footage from nature and generates a documentary by identifying animals, their behaviors, and providing contextual narration based on real-time data.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Interactive%20Wildlife%20Documentary%20Creator" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Cultural Heritage Preservation Tool: </b>A CV application that analyzes images of cultural artifacts or monuments to assess their condition and suggest preservation methods, aiding in cultural heritage conservation.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Cultural%20Heritage%20Preservation%20Tool" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <tr>
       <td><b>Historical Figure Recognition in Media: </b>A CV tool that recognizes historical figures in films, documentaries, or news segments, providing contextual information and trivia in real time.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Pixels-Patterns-and-Perception-The-CV-Chronicles/tree/main/.Projects/Historical%20Figure%20Recognition%20in%20Media" target="_blank">Link</a></td>
       <td>CNN, YOLO</td>
     </tr>
     <!-- Add more projects as needed -->
