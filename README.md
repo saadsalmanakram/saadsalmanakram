@@ -272,7 +272,7 @@
     </tr>
     <tr>
       <td><b>FeedbackLoop: Self-Improving Prompt Framework: </b>Implement self-improvement prompts, where models critique and improve their outputs over iterations. Ideal for code generation, content refinement, or task-specific optimization.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/FeedbackLoop-%20Self-Improving%20Prompt%20Framework" target="_blank">Link</a></td>
       <td>LangChain, Llama 3, Weights & Biases</td>
     </tr>
     <tr>
