@@ -337,7 +337,7 @@
     </tr>
     <tr>
       <td><b>Automated Research Paper Generator: </b>Create a system that helps researchers generate drafts of research papers by providing prompts based on specified topics and desired structures.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/Automated%20Research%20Paper%20Generator" target="_blank">Link</a></td>
       <td>LangChain, GPT-4 API, LaTeX, zotero</td>
     </tr>
     <!-- Add more projects as needed -->
