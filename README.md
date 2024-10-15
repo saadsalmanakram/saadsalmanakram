@@ -287,7 +287,7 @@
     </tr>
     <tr>
       <td><b>FairPrompt: Bias Detection and Mitigation Prompts: </b>Create a system that detects bias in model outputs and dynamically adjusts prompts to mitigate biased responses in real-time.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/FairPrompt-%20Bias%20Detection%20and%20Mitigation%20Prompts" target="_blank">Link</a></td>
       <td>Hugging Face Transformers, LangChain, LlamaIndex, AI Fairness 360 (AIF360)</td>
     </tr>
     <tr>
