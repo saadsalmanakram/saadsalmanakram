@@ -322,7 +322,7 @@
     </tr>
     <tr>
       <td><b>Smart Email Assistant: </b>Develop an AI email assistant that understands and generates responses based on context and previous interactions, utilizing prompt engineering for personalized communication.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/Smart%20Email%20Assistant" target="_blank">Link</a></td>
       <td>LangChain, OpenAI API, Zapier, Weaviate</td>
     </tr>
     <tr>
