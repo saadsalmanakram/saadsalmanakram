@@ -297,7 +297,7 @@
     </tr>
     <tr>
       <td><b>FewShotX: Automated Few-Shot Prompt Generator: </b>Automate the process of generating optimal few-shot learning prompts for specific NLP tasks like summarization or classification, reducing human effort.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/FewShotX-%20Automated%20Few-Shot%20Prompt%20Generator" target="_blank">Link</a></td>
       <td>LangChain, Llama 3, Cohere AI</td>
     </tr>
     <tr>
