@@ -327,7 +327,7 @@
     </tr>
     <tr>
       <td><b>Interactive Storytelling with Dynamic Prompts: </b>Create an interactive storytelling platform where users can influence the narrative flow through prompts, with the AI dynamically adjusting the story based on user choices.</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/Interactive%20Storytelling%20with%20Dynamic%20Prompts" target="_blank">Link</a></td>
       <td>LangChain, OpenAI API, React, WebSockets</td>
     </tr>
     <tr>
