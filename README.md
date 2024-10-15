@@ -302,7 +302,7 @@
     </tr>
     <tr>
       <td><b>MedPrompt: Domain-Specific Prompts for Medical NLP: </b>Develop domain-specific prompts for healthcare applications, where medical language precision is critical (e.g., generating accurate radiology or clinical reports).</td>
-      <td><a href="" target="_blank">Link</a></td>
+      <td><a href="https://github.com/saadsalmanakram/Understanding-Language-Models/tree/main/Prompt%20Engineering/.Projects/MedPrompt-%20Domain-Specific%20Prompts%20for%20Medical%20NLP" target="_blank">Link</a></td>
       <td>LangChain, Hugging Face Transformers, ChromaDB</td>
     </tr>
     <tr>
