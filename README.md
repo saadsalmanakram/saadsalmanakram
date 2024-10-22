@@ -60,7 +60,7 @@
     <tr>
       <td><b>Detecting Most Accurate Calendar</b></td>
       <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/FastAPI/3-%20Projects/Detecting%20Most%20Accurate%20Calendar" target="_blank">Link</a></td>
-      <td>Fastapi Stack</td>
+      <td>Fastapi Stack, Next.js(React)</td>
       <td>Cassandra</td>
     </tr>
     <tr>
@@ -90,19 +90,19 @@
     <tr>
       <td><b>Typing improvement system using DL</b></td>
       <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Typing%20Improvement%20System%20using%20Deep%20Learning" target="_blank">Link</a></td>
-      <td>MERN Stack</td>
+      <td>MERN Stack, Next.js(React)</td>
       <td>MongoDB</td>
     </tr>
     <tr>
       <td><b>Species Toxonomy Breakdown</b></td>
       <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/Laravel/3-%20Projects/Species%20Taxonomy%20Breakdown" target="_blank">Link</a></td>
-      <td>Laravel Stack, JS Web Libraries</td>
+      <td>Laravel Stack, Next.js(React), JS Web Libraries</td>
       <td>MySQL</td>
     </tr>
     <tr>
       <td><b>Analyzing all Pandemics</b></td>
       <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/Django/3-%20Projects/Analyzing%20all%20Pandemics" target="_blank">Link</a></td>
-      <td>Django Stack, Statistics</td>
+      <td>Django Stack, Next.js(React),  Statistics</td>
       <td>PostgreSQL</td>
     </tr>
     <tr>
@@ -114,7 +114,7 @@
     <tr>
       <td><b>Recognizing-humans-based-on-posture</b></td>
       <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/Laravel/3-%20Projects/Recognizing%20Humans%20based%20on%20their%20postures" target="_blank">Link</a></td>
-      <td>Laravel Stack, Vision Transformers</td>
+      <td>Laravel Stack, Next.js(React), Vision Transformers</td>
       <td>MySQL</td>
     </tr>
     <tr>
@@ -144,25 +144,25 @@
     <tr>
       <td><b>Analyzing Drugs based on Types</b></td>
       <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/Ruby%20on%20Rails/3-%20Projects/Analyzing%20Drugs%20based%20on%20Types" target="_blank">Link</a></td>
-      <td>Ruby on Rails, Kafka</td>
+      <td>Ruby on Rails, Next.js(React), Kafka</td>
       <td>PostgreSQL</td>
     </tr>
     <tr>
       <td><b>Unified Cancer Detection System</b></td>
       <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Unified%20Cancer%20Detection%20System" target="_blank">Link</a></td>
-      <td>MERN Stack, CNN</td>
+      <td>MERN Stack, Next.js(React), CNN</td>
       <td>MongoDB</td>
     </tr>
     <tr>
       <td><b>Vehicle shape Modification system</b></td>
       <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Vehical%20shape%20modification%20system" target="_blank">Link</a></td>
-      <td>MERN Stack, GenAI</td>
+      <td>MERN Stack, Next.js(React), GenAI</td>
       <td>MongoDB</td>
     </tr>
     <tr>
       <td><b>Animal Detection Based on their Postures</b></td>
       <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Animal%20detection%20based%20on%20their%20posture" target="_blank">Link</a></td>
-      <td>MERN Stack, Yolo</td>
+      <td>MERN Stack, Next.js(React), Yolo</td>
       <td>MongoDB</td>
     </tr>
     <!-- Add more projects as needed -->
