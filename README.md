@@ -138,7 +138,7 @@
     <tr>
       <td><b>Diverse Crops Analytics</b></td>
       <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/Ruby%20on%20Rails/3-%20Projects/Diverse%20Crops%20Analytics" target="_blank">Link</a></td>
-      <td>Ruby on Rails, Kafka</td>
+      <td>Ruby on Rails, Next.js(React), Kafka</td>
       <td>PostgreSQL</td>
     </tr>
     <tr>
