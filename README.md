@@ -40,7 +40,7 @@
       <th>Database Used</th>
     </tr>
     <tr>
-      <td><b>Social Media Agent Using CrewAI</b></td>
+      <td><b>Social Media Agent Using HuggingFace smolagents</b></td>
       <td><a href="https://github.com/saadsalmanakram/Stacks/tree/main/MERN/3-%20Projects/Social%20Media%20Agent%20Using%20CrewAI" target="_blank">Link</a></td>
       <td>Crew AI, Next.js(React)</td>
       <td>Weaviate</td>
