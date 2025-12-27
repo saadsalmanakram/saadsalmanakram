@@ -5,7 +5,7 @@
 
 ---
 
-### 📈 Neural Activity Stream
+### 📈 Activity Stream
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadsalmanakram&theme=tokyonight" width="100%" />
 </p>
@@ -22,5 +22,5 @@
 </p>
 
 <div align="center">
-  <sub>Managed by <b>saadsalmanakram</b> • Ref: 0x7E9 • 2025 Neural Net Interface</sub>
+  <sub>Managed by <b>saadsalmanakram</b> • 2026</sub>
 </div>
