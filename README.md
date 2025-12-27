@@ -3,5 +3,5 @@
 </p>
 
 <div align="center">
-  <sub>Managed by <b>saadsalmanakram</b> • 2026</sub>
+  <sub>Managed by <b>Saad Salman</b> • 2026</sub>
 </div>
