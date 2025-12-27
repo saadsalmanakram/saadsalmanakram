@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Saad Salman.png" width="100%" alt="Banner" />
+</p>
+
 ### 🛸 Tech Stack Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,python,docker,aws,git,linux,solidity&theme=dark" />
